@@ -2,6 +2,7 @@
 #include <string.h>
 /*jhehe*/
 /* mabye*/
+/*er det her også fint*/
 void free_csv_line( char **parsed ) {
     char **ptr;
 
