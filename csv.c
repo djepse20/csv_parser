@@ -3,6 +3,7 @@
 /*jhehe*/
 /* mabye*/
 /*er det her også fint*/
+/* det her virker ikke*/
 void free_csv_line( char **parsed ) {
     char **ptr;
 
